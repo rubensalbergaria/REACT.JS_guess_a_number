@@ -1,6 +1,6 @@
 Olá pessoal!
 
-Este é meu primeiro projeto em React utilizando o sanbox. É super simples! Basta acessar https://codesandbox.io/ , se conectar com sua conta do github, realizar seu projeto dentro do sandbox, criar um repositório lá mesmo no site e de lá enviar o projeto para ele. 
+Esse é meu primeiro projeto em React utilizando o sanbox. É super simples! Basta acessar https://codesandbox.io/ , se conectar com sua conta do github, realizar seu projeto dentro do sandbox, criar um repositório lá mesmo no site e de lá enviar o projeto para ele. 
 
 Você ainda pode fazer o deploy via Netlify e ter em minutos o seu projeto publicado. É sensacional. 
 
